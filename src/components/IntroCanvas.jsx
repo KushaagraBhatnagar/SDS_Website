@@ -19,7 +19,7 @@ const DURATIONS = {
   ZOOM_OUT: 1.4,
 };
 
-const QUOTE_WORDS = ['Attention', 'is', 'all', 'we', 'get.'];
+const QUOTE_WORDS = ['Attention', 'is', 'something', 'we', 'attract'];
 
 const BOOT_LOGS = [
   { text: "Initializing inference server...", delay: 0 },
