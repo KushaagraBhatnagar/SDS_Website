@@ -429,7 +429,7 @@ export default function IntroCanvas({ onIntroComplete, performanceTier }) {
         const burstIntensity = outExpo(prog);
 
         drawGlitchText(
-          'Attention is all we get.',
+          'Attention is something we attract',
           s.W / 2, s.H / 2,
           '500 48px "Space Grotesk"',
           burstIntensity * 1.8,
