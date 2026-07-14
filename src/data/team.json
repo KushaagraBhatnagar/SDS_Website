@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Alex Mercer",
+    "role": "President & AI Research Lead",
+    "bio": "Researching multi-agent coordination systems and optimization layers. Passionate about transformer engineering.",
+    "avatar": "Alex Mercer",
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com"
+  },
+  {
+    "name": "Sophia Chen",
+    "role": "Vice President & ML Engineer",
+    "bio": "Specializes in computer vision architectures and real-time inference optimization on edge devices.",
+    "avatar": "Sophia Chen",
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com"
+  },
+  {
+    "name": "Ryan Kaelen",
+    "role": "Technical Director",
+    "bio": "Building high-throughput data pipelines and managing the club's cluster compute infrastructure.",
+    "avatar": "Ryan Kaelen",
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com"
+  },
+  {
+    "name": "Elena Rostova",
+    "role": "Data Science Lead",
+    "bio": "Focuses on statistical modeling, tabular representation learning, and predictive time-series forecasting.",
+    "avatar": "Elena Rostova",
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com"
+  }
+]

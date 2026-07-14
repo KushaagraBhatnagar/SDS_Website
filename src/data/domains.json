@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ai",
+    "title": "Artificial Intelligence",
+    "description": "Building autonomous systems that perceive, reason, and act to solve complex real-world challenges.",
+    "tag": "AGENTIC SYSTEMS",
+    "stats": "0.89 BLEU"
+  },
+  {
+    "id": "ml",
+    "title": "Machine Learning",
+    "description": "Developing statistical formulations and algorithms that dynamically learn patterns directly from structural data.",
+    "tag": "STATISTICAL LEARNING",
+    "stats": "99.4% ACC"
+  },
+  {
+    "id": "dl",
+    "title": "Deep Learning",
+    "description": "Designing high-dimensional neural network architectures featuring millions of parameters.",
+    "tag": "NEURAL NETWORKS",
+    "stats": "1.2B PARAMS"
+  },
+  {
+    "id": "cv",
+    "title": "Computer Vision",
+    "description": "Reconstructing and interpreting the visual world using convolutional networks and vision transformers.",
+    "tag": "PERCEPTION",
+    "stats": "120 FPS"
+  },
+  {
+    "id": "nlp",
+    "title": "Natural Language Processing",
+    "description": "Decoding the nuances of human speech and text through semantic parsing and transformer architectures.",
+    "tag": "SEMANTICS",
+    "stats": "94.2% F1"
+  },
+  {
+    "id": "gen-ai",
+    "title": "Generative AI",
+    "description": "Creating advanced diffusion and generative modeling architectures that synthesize synthetic content.",
+    "tag": "SYNTHESIS",
+    "stats": "0.12 FID"
+  },
+  {
+    "id": "llms",
+    "title": "LLMs & Transformers",
+    "description": "Exploring self-attention mechanisms and massive context windows for reasoning and code generation.",
+    "tag": "INFERENCE",
+    "stats": "128K TOKENS"
+  },
+  {
+    "id": "data-science",
+    "title": "Data Science",
+    "description": "Extracting intelligence from unstructured noise using deep analytics, pipeline architecture, and predictive modeling.",
+    "tag": "PREDICTION",
+    "stats": "99.9% CONF"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "event-1",
+    "title": "Neural Genesis Hackathon",
+    "type": "Competition",
+    "date": "Oct 12-14, 2026",
+    "description": "A 48-hour challenge to build agentic workflows that solve campus and societal coordination problems.",
+    "status": "Registration Open"
+  },
+  {
+    "id": "event-2",
+    "title": "Transformer Architecture Breakdown",
+    "type": "Workshop",
+    "date": "Nov 02, 2026",
+    "description": "A deep dive from scratch: writing a self-attention head, key-value caches, and rotary embeddings in PyTorch.",
+    "status": "Upcoming"
+  },
+  {
+    "id": "event-3",
+    "title": "AI in Production: Edge Deployment",
+    "type": "Tech Talk",
+    "date": "Nov 18, 2026",
+    "description": "Industry researchers demonstrate TensorRT compilation, quantization (INT4/INT8), and low-latency serving.",
+    "status": "Upcoming"
+  },
+  {
+    "id": "event-4",
+    "title": "SDS Annual Research Symposium",
+    "type": "Symposium",
+    "date": "Dec 05, 2026",
+    "description": "Members showcase their semester research posters and peer-reviewed submissions in ML, CV, and NLP.",
+    "status": "Planning"
+  }
+]
